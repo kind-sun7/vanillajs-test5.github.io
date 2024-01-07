@@ -1,0 +1,26 @@
+body {
+    background-size: cover;
+}
+
+h1 {
+    color:cornflowerblue;
+    transition: color 0.5s ease-in-out;
+}
+
+.clicked {
+    color: tomato;
+}
+
+.hidden {
+    display: none;
+}
+
+h2 {    
+    color: tomato;
+}
+
+.weather2 {
+    font-size: 110%;
+    font-weight: bold;
+    color:yellow;
+}
